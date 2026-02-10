@@ -36,7 +36,7 @@ body {
       position: fixed;
       top: 0;
       left: -300px; 
-      max-widht: 260px;
+      widht: 260px;
       height: 100%;
       background: linear-gradient(135deg,#FFFFFF,#b9c3ef);
       ;
@@ -286,5 +286,6 @@ body {
   font-family: 'Playfair Display', serif;
   border:2px solid #000000;
 }
+
 
 
