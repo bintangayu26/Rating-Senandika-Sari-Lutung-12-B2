@@ -1,0 +1,25 @@
+
+/*.omg {
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+  margin: auto;
+}*/
+.omg {
+  max-width: 80%;
+  max-height: 60vh;
+  object-fit: contain;
+  margin: auto;
+  display: block;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #52729A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
