@@ -22,6 +22,10 @@ body {
       font-size: 18px;
       padding: 10px;
       background-color: #1d2e56;
+      background: none;
+      border: none;
+      outline: none;
+      cursor: pointer;
     }
     #proto {
       height: 42px;
@@ -45,6 +49,7 @@ body {
       transition: 0.3s;
       z-index: 300;
       overflow-y: auto;
+      box-shadow: 2px 0 10px rgba(0,0,0,0.3);
     }
   .overlay {
   position: fixed;
@@ -287,3 +292,4 @@ body {
   font-family: 'Playfair Display', serif;
   border:2px solid #000000;
 }
+
