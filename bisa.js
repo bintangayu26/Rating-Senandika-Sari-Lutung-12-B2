@@ -34,7 +34,7 @@ const image = [
 "bapak.png",
 "sutradara.png",
 "penulis.png",
-"utama.png",
+"gantiuta.png",
 "1tambahan.png",
 ]
 
@@ -130,3 +130,4 @@ if (typeof type !== "undefined" && type === "produser") {
     sheetTitle.textContent = "Produser";
     sheetContent.textContent = "Informasi tentang produser drama.";
   }
+
